@@ -23,7 +23,7 @@ about:
   enable: true
   image: "images/cooker-img.png"
   title: "Vieta atpūtai<span> Ezerupe</span> "
-  description: "Ezerupe ir Vecates laivu bāze, atpūtas iespējas un vietā, kur Salaca iztek no Burtnieka"
+  description: "Ezerupe ir Vecates laivu bāze, atpūtas iespējas vietā, kur Salaca iztek no Burtnieka"
 
 ################# Blog ######################
 blog:
