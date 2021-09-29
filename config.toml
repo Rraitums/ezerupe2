@@ -95,7 +95,7 @@ socialTitle = "Seko <span>MUMS</span>"
 [[params.footer.contactItem]]
 title="Telefons"
 icon = "fa fa-phone"
-content = "20000000"
+content = "25 660 000"
 
 [[params.footer.contactItem]]
 title=" Adrese"
@@ -105,7 +105,7 @@ content = "Laivu bāze Ezerupe, Vecates pagasts, LV-4211"
 [[params.footer.contactItem]]
 title="E-pasts"
 icon = "fa fa-envelope"
-content = "ezerupe@gmail.com"
+content = "armands.raitums@gmail.com"
 
 ######################### footer gallery
 [[params.footer.gallery]]
