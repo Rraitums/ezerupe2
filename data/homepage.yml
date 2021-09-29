@@ -40,7 +40,7 @@ pricing:
   subtitle: "PAKALPOJUMI"
   pricing_item:
     - title: "Laiva Terhi 395 un Amber 430"
-      description: "Diena (12h) = 10 € / Līdz 2h darba dienās = 5 € (Glābšanas vestes,enkurs par brīvu.)"
+      description: "Diena (12h) = 10 € / Līdz 2h darba dienās = 5 € Glābšanas vestes,enkurs par brīvu."
       price: "€ 10.00 / 5.00"
 
     - title: "Motors “Parsun” BF2.6"
@@ -48,7 +48,7 @@ pricing:
       price: "€ 20.00 / 10.00"
 
     - title: "Kanoe / Kajaki laivu īre"
-      description: "Divvietīgas un vienvietīgas laivas. 1.diena - € 25.00; 2.diena - € 20.00; 3.diena - € 15.00; 4.diena - € 10.00"
+      description: "Divvietīgas un vienvietīgas laivas. 1.diena - € 25.00; 2.diena - € 20.00; 3.diena - € 15.00; 4.diena - € 10.00 Komplektā: Glābšanas vestes, airi"
       price: "€ 25.00 / 20.00 / 15.00 / 10.00"
 
     - title: "SUP dēļi"
@@ -56,21 +56,21 @@ pricing:
       price: "€ 25.00 / 5.00"
 
     - title: "Gultas vietas"
-      description: "Komplektā ietilpst: Gultas veļa, dvielis, WC, Atkritumi, Ledusskapis, Elektriskā plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+      description: "Komplektā ietilpst: Gultas veļa, dvielis, WC, Ledusskapis, Elektriskā plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
       price: "€ 15.00"
 
     - title: "Dzīvojamais vagons 6 personām"
-      description: "Līdz 6 personām uz 24 stundām 3. guļam istabas. Komplektā ietilpst: Gultas veļa, dvielis, WC, Atkritumi, Ledusskapis, Elektriskā plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+      description: "Līdz 6 personām uz 24 stundām 3. guļam istabas. Komplektā ietilpst: Gultas veļa, dvielis, WC, Ledusskapis, gāzes plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
       price: "€ 75.00"
 
-    - title: "Dzīvojamais vagons  personām"
-      description: "Līdz 2 personām uz 24 stundām. Komplektā ietilpst: Gultas veļa, dvielis, WC, Atkritumi, Ledusskapis, Elektriskā plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+    - title: "Dzīvojamais vagons 2 personām"
+      description: "Līdz 2 personām uz 24 stundām. Komplektā ietilpst: Gultas veļa, dvielis, koplietošanas WC, Ledusskapis, gāzes plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
       price: "€ 35.00"
 
     - title: "Stāvlaukums un slips"
       description: "Uz 24 stundām"
       price: "€ 5.00"
 
-    - title: "Kempinga vieta"
-      description: "Uz 24 stundām. Bērniem līdz 16 gadiem bezmaksas"
+    - title: "Telts vieta vienai personai"
+      description: "Uz 24 stundām. Bērniem līdz 16 gadiem bezmaksas komplektā: Grils, Malka, koplietošanas WC, auto stāvieta"
       price: "€ 7.00"
