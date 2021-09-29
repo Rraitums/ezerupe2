@@ -40,11 +40,11 @@ pricing:
   subtitle: "PAKALPOJUMI"
   pricing_item:
     - title: "Laiva Terhi 395 un Amber 430"
-      description: "Diena (12h) = 10 € / Līdz 2h darba dienās = 5 € "
+      description: "Diena (12h) = 10 € / Līdz 2h darba dienās = 5 € (Glābšanas vestes,enkurs par brīvu.)"
       price: "€ 10.00 / 5.00"
 
     - title: "Motors “Parsun” BF2.6"
-      description: "Dienā (12 h) = 20.00 € / Līdz 2h = 10.00 € (Glābšanas vestes,enkurs par brīvu.)"
+      description: "Dienā (12 h) = 20.00 € / Līdz 2h = 10.00 € komplektā nāk bāka ar degvielu"
       price: "€ 20.00 / 10.00"
 
     - title: "Kanoe / Kajaki laivu īre"
