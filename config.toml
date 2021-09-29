@@ -95,7 +95,7 @@ socialTitle = "Seko <span>MUMS</span>"
 [[params.footer.contactItem]]
 title="Telefons"
 icon = "fa fa-phone"
-content = "25 660 000"
+content = "+371 25 660 000"
 
 [[params.footer.contactItem]]
 title=" Adrese"
