@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ezerupe.lv/sakums/"
+baseURL = "https://ezerupe.lv/"
 languageCode = "en-us"
 title = "Ezerupe"
 theme = "ez-hugo"
