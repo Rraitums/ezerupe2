@@ -100,7 +100,7 @@ content = "25 660 000"
 [[params.footer.contactItem]]
 title=" Adrese"
 icon = "fa fa-map-marker"
-content = "Laivu bāze Ezerupe, Vecates pagasts, LV-4211 57°47'45.4 N 25°08'43.8 E "
+content = "Laivu bāze Ezerupe, Vecates pagasts, LV-4211 <br> 57°47'45.4 N 25°08'43.8 E "
 
 [[params.footer.contactItem]]
 title="E-pasts"
