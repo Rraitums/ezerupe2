@@ -1,0 +1,76 @@
+################## Hero area ##################
+hero_area:
+  enable: true
+  bg_image: "images/header.jpeg"
+  overlay: true
+
+################### Gallery ###################
+gallery:
+  enable: true
+  title: "GALERIJA"
+  images:
+    - "images/slider/slider-img-1.jpeg"
+    - "images/slider/slider-img-2.jpeg"
+    - "images/slider/slider-img-3.jpeg"
+    - "images/slider/slider-img-4.jpeg"
+    - "images/slider/slider-img-1.jpeg"
+    - "images/slider/slider-img-2.jpeg"
+    - "images/slider/slider-img-3.jpeg"
+    - "images/slider/slider-img-4.jpeg"
+
+################ About #######################
+about:
+  enable: true
+  image: "images/cooker-img.png"
+  title: "Vieta atpūtai<span> Ezerupe</span> "
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+
+################# Blog ######################
+blog:
+  enable: true
+  title: "<span>PAKALPOJUMI</span>"
+  bg_image: "images/blog/4.jpeg"
+  overlay: true
+
+################# Cenas ################
+pricing:
+  enable: true
+  title: "<span>CENAS</span>"
+  description: "  Mēs piedāvājam dažādākās atpūtas iespējas..."
+  subtitle: "PAKALPOJUMI"
+  pricing_item:
+    - title: "Laiva Terhi 395 un Amber 430"
+      description: "Diena (12h) = 10 € / Līdz 2h darba dienās = 5 € "
+      price: "€ 10.00 / 5.00"
+
+    - title: "Motors “Parsun” BF2.6"
+      description: "Dienā (12 h) = 20.00 € / Līdz 2h = 10.00 € (Glābšanas vestes,enkurs par brīvu.)"
+      price: "€ 20.00 / 10.00"
+
+    - title: "Kanoe / Kajaki laivu īre"
+      description: "Divvietīgas un vienvietīgas laivas. 1.diena - € 25.00; 2.diena - € 20.00; 3.diena - € 15.00; 4.diena - € 10.00"
+      price: "€ 25.00 / 20.00 / 15.00 / 10.00"
+
+    - title: "SUP dēļi"
+      description: "Īre līdz 2 stundām: € 5.00; uz 24 stundām: € 25.00 "
+      price: "€ 25.00 / 5.00"
+
+    - title: "Gultas vietas"
+      description: "Komplektā ietilpst: Gultas veļa, dvielis, WC, Atkritumi, Ledusskapis, Elektriskā plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+      price: "€ 15.00"
+
+    - title: "Dzīvojamais vagons 6 personām"
+      description: "Līdz 6 personām uz 24 stundām 3. guļam istabas. Komplektā ietilpst: Gultas veļa, dvielis, WC, Atkritumi, Ledusskapis, Elektriskā plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+      price: "€ 75.00"
+
+    - title: "Dzīvojamais vagons  personām"
+      description: "Līdz 2 personām uz 24 stundām. Komplektā ietilpst: Gultas veļa, dvielis, WC, Atkritumi, Ledusskapis, Elektriskā plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+      price: "€ 35.00"
+
+    - title: "Stāvlaukums un slips"
+      description: "Uz 24 stundām"
+      price: "€ 5.00"
+
+    - title: "Kempinga vieta"
+      description: "Uz 24 stundām. Bērniem līdz 16 gadiem bezmaksas"
+      price: "€ 7.00"

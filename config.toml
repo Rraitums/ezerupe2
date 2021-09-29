@@ -1,0 +1,133 @@
+######################## default configuration ####################
+baseURL = "https://ezerupe.lv/sakums/"
+languageCode = "en-us"
+title = "Ezerupe"
+theme = "ez-hugo"
+summaryLength = "10"
+paginate = 4
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+URL = "css/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "css/slick.css"
+[[params.plugins.css]]
+URL = "css/font-awesome.min.css"
+[[params.plugins.css]]
+URL = "css/animate.min.css"
+[[params.plugins.css]]
+URL = "css/venobox.css"
+[[params.plugins.css]]
+URL = "css/main.css"
+[[params.plugins.css]]
+URL = "css/responsive.css"
+
+# JS Plugins
+[[params.plugins.js]]
+URL = "js/jquery.min.js"
+[[params.plugins.js]]
+URL = "js/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "js/slick.min.js"
+[[params.plugins.js]]
+URL = "js/wow.min.js"
+[[params.plugins.js]]
+URL = "js/venobox.min.js"
+[[params.plugins.js]]
+URL = "js/main.js"
+
+############################## navigation ###############################
+
+[[menu.main]]
+name = "Sākums"
+URL = "hero-area"
+weight = 1
+
+[[menu.main]]
+name = "Par mums"
+URL = "about-us"
+weight = 2
+
+[[menu.main]]
+name = "Pakalpojumi"
+URL = "blog"
+weight = 3
+
+[[menu.main]]
+name = "Cenas"
+URL = "price"
+weight = 4
+
+[[menu.main]]
+name = "Kontakti"
+URL = "footer"
+weight = 5
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+# meta data
+description = "This is meta description"
+# google analitycs ID
+google_analitycs_id = "Ezerupe"
+# mainSections
+main_sections = ["post"]
+# copyright
+copyright = "Ezerupe 2021"
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use .png , .svg or .gif format
+
+################################### Footer ############################
+[params.footer]
+enable = true
+contactInfoTitle = "Kontakt <span>INFO</span> "
+blogTitle = "Mūsu <span>PAKALPOJUMI</span>"
+galleryTitle = "<span>GALERIJA</span>"
+socialTitle = "Seko <span>MUMS</span>"
+
+############################ footer contact item
+[[params.footer.contactItem]]
+title="Telefons"
+icon = "fa fa-phone"
+content = "20000000"
+
+[[params.footer.contactItem]]
+title=" Adrese"
+icon = "fa fa-map-marker"
+content = "Laivu bāze Ezerupe, Vecates pagasts, LV-4211"
+
+[[params.footer.contactItem]]
+title="E-pasts"
+icon = "fa fa-envelope"
+content = "ezerupe@gmail.com"
+
+######################### footer gallery
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpeg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpeg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-3.jpeg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-4.jpeg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpeg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpeg"
+
+######################## Social Icon 
+[[params.footer.socialLink]]
+icon = "facebook"
+link = "https://www.facebook.com/ezerupe/"
+
