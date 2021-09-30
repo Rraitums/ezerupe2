@@ -75,6 +75,6 @@ pricing:
       description: "Uz 24 stundām. Bērniem līdz 16 gadiem bezmaksas komplektā: Grils, Malka, koplietošanas WC, auto stāvieta"
       price: "€ 7.00"
       
-          - title: "Transportēšanas un laivu piegādes cena pēc vienošanās."
+    - title: "Transportēšanas un laivu piegādes cena pēc vienošanās."
       description: "Cena sākot no ... par KM"
-    
+      price: "€ 7.00"
