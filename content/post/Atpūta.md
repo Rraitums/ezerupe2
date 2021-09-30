@@ -1,6 +1,6 @@
 ---
 title: "Iespējami maršruti, Rūjas upes un Salacas ietvaros."
-image: images/blog/blog-img-5.jpg
+image: images/blog/IMG-20210429-WA0012.jpeg
 description: "this is meta description"
 type: "post"
 ---
