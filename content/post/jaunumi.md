@@ -1,6 +1,6 @@
 ---
 title: "Jaunumi"
-image: "images/blog/blog-img-2.jpg"
+image: "images/blog/Unknown-6.jpeg"
 description: "this is meta description"
 type: "post"
 ---
