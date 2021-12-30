@@ -50,20 +50,16 @@ name = "Par mums"
 URL = "about-us"
 weight = 2
 
-[[menu.main]]
-name = "Pakalpojumi"
-URL = "blog"
-weight = 3
 
 [[menu.main]]
 name = "Cenas"
 URL = "price"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Kontakti"
 URL = "footer"
-weight = 5
+weight = 4
 
 
 #################### default parameters ################################
