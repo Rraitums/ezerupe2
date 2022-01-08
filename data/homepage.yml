@@ -72,5 +72,9 @@ pricing:
       price: "€ 7.00"
       
     - title: "Transportēšanas un laivu piegādes cena pēc vienošanās."
-      description: "Cena sākot no ... par KM"
-      price: "€ 7.00"
+      description: "Cena pēc vienošanās"
+      price: "€ 0.50"
+      
+      - title: "Drīzumā būs pieejama Peldošā pirts"
+      description: "2022 gada sezonā"
+      price: "Drīzumā"
