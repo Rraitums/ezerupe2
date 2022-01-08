@@ -752,6 +752,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 
 .gallery-slider img {
   padding: 20px;
+  height: 12pc;
+  width: 20pc;
 }
 
 .pagination {
