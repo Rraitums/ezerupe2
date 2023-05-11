@@ -1,22 +1,29 @@
 ################## Hero area ##################
 hero_area:
-  enable: true
-  bg_image: "images/header.jpeg"
+  enable: false
+  bg_image: "images/1234.png"
   overlay: true
 
 ################### Gallery ###################
 gallery:
   enable: true
-  title: "GALERIJA"
+  title: ""
   images:
-    - "images/slider/slider-img-1.jpeg"
-    - "images/slider/slider-img-2.jpeg"
-    - "images/slider/slider-img-4.jpeg"
-    - "images/slider/slider-img-7.jpeg"
-    - "images/slider/slider-img-8.jpeg"
-    - "images/slider/slider-img-9.jpeg"
-    - "images/slider/slider-img-10.jpeg"
-
+    - "images/slider/slider-img-1.png"
+    - "images/slider/slider-img-2.png"
+    - "images/slider/slider-img-3.png"
+    - "images/slider/slider-img-4.png"
+    - "images/slider/slider-img-5.png"
+    - "images/slider/slider-img-6.png"
+    - "images/slider/slider-img-7.png"
+    - "images/slider/slider-img-8.png"
+    - "images/slider/slider-img-9.png"
+    - "images/slider/slider-img-10.png"
+    - "images/slider/slider-img-11.png"
+    - "images/slider/slider-img-12.png"
+    - "images/slider/slider-img-13.png"
+    - "images/slider/slider-img-14.png"
+    - "images/slider/slider-img-15.png"
 
 ################ About #######################
 about:
@@ -27,7 +34,6 @@ about:
 
 ################# Blog ######################
 
-
 ################# Cenas ################
 pricing:
   enable: true
@@ -36,12 +42,12 @@ pricing:
   subtitle: "PAKALPOJUMI"
   pricing_item:
     - title: "Laiva Terhi 395 un Amber 430"
-      description: "Diena (12h) = 10 € / Līdz 2h darba dienās = 5 € Glābšanas vestes,enkurs par brīvu."
-      price: "€ 10.00 / 5.00"
+      description: "Diena (12h) = 12 € / Līdz 2h darba dienās = 6 € Glābšanas vestes, enkurs par brīvu."
+      price: "€ 12.00 / 6.00"
 
     - title: "Motors PARSUN' 2,6 BMS6"
-      description: "Dienā (12 h) = 20.00 € / Līdz 2h = 10.00 € komplektā nāk bāka ar degvielu"
-      price: "€ 20.00 / 10.00"
+      description: "Dienā (12 h) = 25.00 € / Līdz 2h = 12.00 € komplektā nāk bāka ar degvielu"
+      price: "€ 25.00 / 12.00"
 
     - title: "Kanoe / Kajaki laivu īre"
       description: "Divvietīgas un vienvietīgas laivas. 1.diena - € 25.00; 2.diena - € 20.00; 3.diena - € 15.00; 4.diena - € 10.00 Komplektā: Glābšanas vestes, airi, hermētiskais maiss"
@@ -53,27 +59,36 @@ pricing:
 
     - title: "Gultas vietas"
       description: "Komplektā ietilpst: Gultas veļa, dvielis, WC, Ledusskapis, Elektriskā plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
-      price: "€ 15.00"
+      price: "€ 17.00"
 
     - title: "Dzīvojamais vagons 6 personām"
       description: "Līdz 6 personām uz 24 stundām 3. guļam istabas. Komplektā ietilpst: Gultas veļa, dvielis, WC, Ledusskapis, gāzes plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
-      price: "€ 75.00"
+      price: "€ 85.00"
 
     - title: "Dzīvojamais vagons 2 personām"
       description: "Līdz 2 personām uz 24 stundām. Komplektā ietilpst: Gultas veļa, dvielis, koplietošanas WC, Ledusskapis, gāzes plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+      price: "€ 30.00"
+
+    - title: "Dzīvojamais vagons 3 personām"
+      description: "Līdz 3 personām uz 24 stundām. Komplektā ietilpst: Gultas veļa, dvielis, koplietošanas WC, Ledusskapis, gāzes plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
       price: "€ 35.00"
 
-    - title: "Stāvlaukums un slips"
+    - title: "Stāvlaukums"
       description: "Uz 24 stundām"
-      price: "€ 5.00"
+      price: "€ 2.00"
+
+    - title: "Slips"
+      description: "Laivas ielaižšai un iekraušanai"
+      price: "€ 3.00"
 
     - title: "Telts vieta vienai personai"
       description: "Uz 24 stundām. Bērniem līdz 16 gadiem bezmaksas komplektā: Grils, Malka, koplietošanas WC, auto stāvieta"
       price: "€ 7.00"
-      
+
     - title: "Transportēšanas un laivu piegādes cena pēc vienošanās."
       description: "Cena pēc vienošanās"
       price: "€ 0.50"
-      
-    - title: "Drīzumā būs pieejama Peldošā pirts"
-      description: "2022 gada sezonā"
+
+    - title: "Peldošā pirts"
+      description: "Pirst uz ūdens ar dažādām ērtībām"
+      price: "€ 100.00"

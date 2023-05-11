@@ -42,7 +42,7 @@ URL = "js/main.js"
 
 [[menu.main]]
 name = "Sākums"
-URL = "hero-area"
+URL = "slider"
 weight = 1
 
 [[menu.main]]
