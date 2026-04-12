@@ -1,0 +1,6 @@
+{{ "<!-- header-img start  -->" | safeHTML }}
+{{ if hugo.Data.homepage.hero_area.enable }}
+{{ with hugo.Data.homepage.hero_area }}
+<section id="hero-area" style="background-image: url('{{ .bg_image | relURL }}');"></section>
+{{ end }}
+{{ end }}

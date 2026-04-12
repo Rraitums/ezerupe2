@@ -1,0 +1,96 @@
+{{ if site.Params.footer.enable }}
+<section id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="block wow fadeInLeft" data-wow-delay="200ms">
+          <h3>
+            {{ with site.Params.footer.contactInfoTitle }} {{ . | safeHTML }} {{
+            end }}
+          </h3>
+          <div class="info">
+            <ul>
+              {{ range site.Params.footer.contactItem }}
+              <li>
+                <h4><i class="{{.icon}}"></i>{{ .title }}</h4>
+                <p>{{ .content | markdownify }}</p>
+              </li>
+              {{end}}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- .col-md-4 close -->
+      <div class="col-md-4">
+        <div class="block wow fadeInLeft" data-wow-delay="700ms">
+          <h3>
+            Mūsu <span>LOKĀCIJA</span>
+          </h3> <br>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8505.33162554844!2d25.1455822!3d57.7956999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x639dd5744cb8b020!2sEzerupe%2C%20Vecates%20Laivu%20B%C4%81ze!5e0!3m2!1slv!2slv!4v1632931636660!5m2!1slv!2slv" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+      </div>
+      <!-- .col-md-4 close -->
+      <div class="col-md-4">
+        <div class="block wow fadeInLeft" data-wow-delay="1100ms">
+          <div class="gallary">
+            <h3>
+              {{ with site.Params.footer.galleryTitle }} {{ . | safeHTML }} {{
+              end }}
+            </h3>
+            <ul class="gallery">
+              {{ range site.Params.footer.gallery }}
+              <li>
+                <a
+                  href="{{ .image | absURL }}"
+                  class="venobox"
+                  data-gall="footerGallery"
+                  ><img
+                    class="img-responsive"
+                    src="{{ .image | absURL }}"
+                    alt=""
+                /></a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          <div class="social-media-link">
+            <h3>
+              {{ with site.Params.footer.socialTitle }} {{ . | safeHTML }} {{
+              end }}
+            </h3>
+            <ul>
+              {{ range site.Params.footer.socialLink }}
+              <li>
+                <a href="{{ .link | safeURL }}"
+                  ><i class="fa fa-{{ .icon }}"></i
+                ></a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- .col-md-4 close -->
+    </div>
+    <!-- .row close -->
+  </div>
+  <!-- .containe close -->
+</section>
+<!-- #footer close -->
+{{ end }}
+
+<footer id="footer-bottom">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div class="block">
+          <p>Ezerupe {{ now.Year }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+{{ "<!-- JS Plugins -->" | safeHTML }} {{ range site.Params.plugins.js}}
+<script src="{{ .URL | relURL }}"></script>
+{{ end }} 
