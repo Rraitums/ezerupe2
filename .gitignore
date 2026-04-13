@@ -1,3 +1,5 @@
 public/
 .hugo_build.lock
 resources/
+.DS_Store
+static/images/foto/
