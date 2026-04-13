@@ -122,8 +122,6 @@ image = "images/slider/slider-img-7.jpeg"
 [[params.footer.gallery]]
 image = "images/slider/slider-img-8.jpeg"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-9.jpeg"
 
 [[params.footer.gallery]]
 image = "images/slider/slider-img-18.jpg"

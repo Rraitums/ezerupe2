@@ -8,10 +8,6 @@ gallery:
   enable: true
   title: ""
   images:
-    - "images/slider/slider-img-1.png"
-    - "images/slider/slider-img-2.png"
-    - "images/slider/slider-img-3.png"
-    - "images/slider/slider-img-4.png"
     - "images/slider/slider-img-5.png"
     - "images/slider/slider-img-6.png"
     - "images/slider/slider-img-7.png"
