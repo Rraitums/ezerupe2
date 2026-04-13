@@ -8,14 +8,6 @@ gallery:
   enable: true
   title: ""
   images:
-    - "images/slider/slider-img-5.png"
-    - "images/slider/slider-img-6.png"
-    - "images/slider/slider-img-7.png"
-    - "images/slider/slider-img-8.png"
-    - "images/slider/slider-img-10.png"
-    - "images/slider/slider-img-11.png"
-    - "images/slider/slider-img-12.png"
-    - "images/slider/slider-img-13.png"
     - "images/slider/slider-img-14.png"
     - "images/slider/slider-img-15.png"
     - "images/slider/slider-img-16.jpg"
@@ -27,6 +19,14 @@ gallery:
     - "images/slider/slider-img-22.jpg"
     - "images/slider/slider-img-23.jpg"
     - "images/slider/slider-img-24.jpg"
+    - "images/slider/slider-img-5.png"
+    - "images/slider/slider-img-6.png"
+    - "images/slider/slider-img-7.png"
+    - "images/slider/slider-img-8.png"
+    - "images/slider/slider-img-10.png"
+    - "images/slider/slider-img-11.png"
+    - "images/slider/slider-img-12.png"
+    - "images/slider/slider-img-13.png"
 
 ################ About #######################
 about:
